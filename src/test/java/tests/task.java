@@ -7,4 +7,7 @@ public class task {
     //this line is added from GitHub,see you in Intellij
 
   }
+  public int returnMethod(){
+    return 1;
+  }
 }
