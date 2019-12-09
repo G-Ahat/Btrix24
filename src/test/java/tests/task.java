@@ -10,4 +10,7 @@ public class task {
   public void newMethod(){
     System.out.println("hi");
   }
+  public int returnMethod(){
+    return 1;
+  }
 }
